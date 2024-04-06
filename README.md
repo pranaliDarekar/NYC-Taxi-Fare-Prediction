@@ -1,6 +1,8 @@
 # NYC-Taxi-Fare-Prediction
+[image](https://github.com/pranaliDarekar/NYC-Taxi-Fare-Prediction/assets/82031974/5b494314-1d32-4fff-9a85-fe82c5f7d299)
 
-header_image
+
+
 This notebook is using the New York Taxi Fare Dataset taken from the playground competition, hosted in partnership with Google Cloud and Coursera, tasked for predicting the fare amount (inclusive of tolls) for a taxi ride in New York City given the pickup and dropoff locations.
 
 So, in this notebook we can do a lot more about the analysis especially with Geospatial Analysis along with the EDA and later we will predict the Fare price with the help of the given data using the simple Linear Regression algorithm.
